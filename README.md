@@ -39,3 +39,8 @@ $ AWS Access Key ID [None]: <アクセスキー>
 $ AWS Secret Access Key [None]: <シークレットキー>
 $ Default region name [None]: <リージョン>
 ```
+
+```
+vim KS-service-role.json
+```
+ここでなんか間違っている気がするからストップ
