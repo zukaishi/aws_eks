@@ -32,3 +32,10 @@ $ kubectl version --short --client
 ```
 Client Version: v1.21.2
 ```
+
+```
+$ aws configure
+$ AWS Access Key ID [None]: <アクセスキー>
+$ AWS Secret Access Key [None]: <シークレットキー>
+$ Default region name [None]: <リージョン>
+```
