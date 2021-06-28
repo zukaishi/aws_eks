@@ -43,4 +43,6 @@ $ Default region name [None]: <リージョン>
 ```
 vim KS-service-role.json
 ```
-ここでなんか間違っている気がするからストップ
+コンソールでの作業
+
+
