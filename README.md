@@ -45,8 +45,6 @@ vim KS-service-role.json
 ```
 コンソールでの作業
 <img width="1282" alt="スクリーンショット 2021-06-29 6 20 54" src="https://user-images.githubusercontent.com/22611735/123706344-22337a80-d8a3-11eb-9858-4ff65f38ae0e.png">
-<img width="336" alt="スクリーンショット 2021-06-29 6 23 04" src="https://user-images.githubusercontent.com/22611735/123706397-31b2c380-d8a3-11eb-9514-a46922350935.png">
-
 <img width="1315" alt="スクリーンショット 2021-06-29 6 23 08" src="https://user-images.githubusercontent.com/22611735/123706408-37100e00-d8a3-11eb-9a7d-7e6701b9c0aa.png">
 <img width="1308" alt="スクリーンショット 2021-06-29 6 23 26" src="https://user-images.githubusercontent.com/22611735/123706414-3a0afe80-d8a3-11eb-9e81-3b97ce8ae6cc.png">
 <img width="1328" alt="スクリーンショット 2021-06-29 6 23 33" src="https://user-images.githubusercontent.com/22611735/123706429-3d05ef00-d8a3-11eb-946b-473054ba09f5.png">
