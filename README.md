@@ -69,3 +69,9 @@ cloudformation/2020-08-12/amazon-eks-nodegroup-role.yaml」して作成する
 cloudformation/2020-08-12/amazon-eks-vpc-sample.yaml」して作成する
 
 <img width="327" alt="スクリーンショット 2021-06-30 6 23 22" src="https://user-images.githubusercontent.com/22611735/123869221-acdfac80-d96b-11eb-8953-0e46b3ec7935.png">
+
+
+### EKSクラスターの設定を行うため、「出力」タブをクリックします。
+- 「SecurityGroups、SubnetIds、VpcId」をメモ
+
+<img width="1010" alt="スクリーンショット 2021-06-30 6 24 14" src="https://user-images.githubusercontent.com/22611735/123869351-d13b8900-d96b-11eb-8ee6-e81cff165fd0.png">
