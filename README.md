@@ -55,3 +55,9 @@ vim KS-service-role.json
 <img width="1089" alt="スクリーンショット 2021-06-29 6 23 54" src="https://user-images.githubusercontent.com/22611735/123706437-3ecfb280-d8a3-11eb-8d42-5c7eb993b90d.png">
 <img width="1009" alt="スクリーンショット 2021-06-29 6 26 45" src="https://user-images.githubusercontent.com/22611735/123706451-42633980-d8a3-11eb-95ce-17d6999477ce.png">
 
+### EKSワーカーノードロールのスタック作成
+- 同じようなものをもう一つ作る
+- 「テンプレートの指定」の「テンプレートソース」に、「Amazon S3 URL」を選択し、その下段に「https://amazon-eks.s3.us-west-2.amazonaws.com/
+cloudformation/2020-08-12/amazon-eks-nodegroup-role.yaml」して作成する
+
+<img width="326" alt="スクリーンショット 2021-06-30 6 18 23" src="https://user-images.githubusercontent.com/22611735/123868775-1b703a80-d96b-11eb-89c0-9177054ddfbf.png">
