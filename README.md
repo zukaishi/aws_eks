@@ -44,6 +44,7 @@ $ Default region name [None]: <リージョン>
 vim KS-service-role.json
 ```
 ## コンソールでの作業
+
 ### EKSサービスロールのスタック作成
 - スタックは、単一のユニットとして管理できる AWS リソースのコレクション。
 - つまり、スタックを作成、更新、削除することで、リソースのコレクションを作成、更新、削除できます。
@@ -61,3 +62,10 @@ vim KS-service-role.json
 cloudformation/2020-08-12/amazon-eks-nodegroup-role.yaml」して作成する
 
 <img width="326" alt="スクリーンショット 2021-06-30 6 18 23" src="https://user-images.githubusercontent.com/22611735/123868775-1b703a80-d96b-11eb-89c0-9177054ddfbf.png">
+
+### クラスター環境用VPCのスタック作成
+- スタックをもう一つ作る
+- 「テンプレートの指定」の「テンプレートソース」に、「Amazon S3 URL」を選択し、下段に「https://amazon-eks.s3.us-west-2.amazonaws.com/
+cloudformation/2020-08-12/amazon-eks-vpc-sample.yaml」して作成する
+
+<img width="327" alt="スクリーンショット 2021-06-30 6 23 22" src="https://user-images.githubusercontent.com/22611735/123869221-acdfac80-d96b-11eb-8953-0e46b3ec7935.png">
