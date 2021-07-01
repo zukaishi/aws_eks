@@ -77,7 +77,10 @@ cloudformation/2020-08-12/amazon-eks-vpc-sample.yaml」して作成する
 <img width="1010" alt="スクリーンショット 2021-06-30 6 24 14" src="https://user-images.githubusercontent.com/22611735/123869351-d13b8900-d96b-11eb-8ee6-e81cff165fd0.png">
 
 ### EKSクラスターの作成
-- EKSへ遷移し作成したスタック「EKS-service-role」を使用しクラスターを作成する
+- EKSへ遷移し作成したスタック「EKS-service-role」を選択
+- ネットワーキングでは、「eks-cluster-vpc」を選択、SecurityGroupsを選択
+
 
 <img width="1091" alt="スクリーンショット 2021-07-02 6 20 58" src="https://user-images.githubusercontent.com/22611735/124190804-d6304200-dafd-11eb-8376-67a837756cce.png">
 
+<img width="1093" alt="スクリーンショット 2021-07-02 6 25 32" src="https://user-images.githubusercontent.com/22611735/124191142-50f95d00-dafe-11eb-87ba-dcb0f3a55944.png">
