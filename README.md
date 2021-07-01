@@ -75,3 +75,9 @@ cloudformation/2020-08-12/amazon-eks-vpc-sample.yaml」して作成する
 - 「SecurityGroups、SubnetIds、VpcId」をメモ
 
 <img width="1010" alt="スクリーンショット 2021-06-30 6 24 14" src="https://user-images.githubusercontent.com/22611735/123869351-d13b8900-d96b-11eb-8ee6-e81cff165fd0.png">
+
+### EKSクラスターの作成
+- EKSへ遷移し作成したスタック「EKS-service-role」を使用しクラスターを作成する
+
+<img width="1091" alt="スクリーンショット 2021-07-02 6 20 58" src="https://user-images.githubusercontent.com/22611735/124190804-d6304200-dafd-11eb-8376-67a837756cce.png">
+
