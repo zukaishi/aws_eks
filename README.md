@@ -91,7 +91,7 @@ $ aws_eks hishizuka$ aws eks --region ap-northeast-1 update-kubeconfig --name ek
 $ Updated context arn:aws:eks:ap-northeast-1:431928468872:cluster/eks-cluster in /Users/hishizuka/.kube/config
 ```
 ```
-kubectl get svc
-error: You must be logged in to the server (Unauthorized)
+$ kubectl get svc
+$ error: You must be logged in to the server (Unauthorized)
 ```
 ここで足止め、権限不足かな
