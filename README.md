@@ -84,3 +84,14 @@ cloudformation/2020-08-12/amazon-eks-vpc-sample.yaml」して作成する
 <img width="1091" alt="スクリーンショット 2021-07-02 6 20 58" src="https://user-images.githubusercontent.com/22611735/124190804-d6304200-dafd-11eb-8376-67a837756cce.png">
 
 <img width="1093" alt="スクリーンショット 2021-07-02 6 25 32" src="https://user-images.githubusercontent.com/22611735/124191142-50f95d00-dafe-11eb-87ba-dcb0f3a55944.png">
+
+### kubeconfigファイルの作成
+```
+$ aws_eks hishizuka$ aws eks --region ap-northeast-1 update-kubeconfig --name eks-cluster
+$ Updated context arn:aws:eks:ap-northeast-1:431928468872:cluster/eks-cluster in /Users/hishizuka/.kube/config
+```
+```
+kubectl get svc
+error: You must be logged in to the server (Unauthorized)
+```
+ここで足止め、権限不足かな
