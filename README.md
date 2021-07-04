@@ -95,3 +95,7 @@ $ kubectl get svc
 $ error: You must be logged in to the server (Unauthorized)
 ```
 ここで足止め、権限不足かな
+https://qiita.com/keng000/items/4afe077c649ec3e22ef5#eks%E3%81%AB%E3%81%A6rbac%E3%83%AD%E3%83%BC%E3%83%AB%E3%82%92%E4%BB%98%E4%B8%8E%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95
+
+この辺りな気がする
+
